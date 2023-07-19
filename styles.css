@@ -89,5 +89,13 @@ nav{
     color: navy;
 }
 
+.about{
+    width: 100%;
+    height: auto;
+    background-color: whitesmoke;
+    display: flex;
+}
+
+
 
 
